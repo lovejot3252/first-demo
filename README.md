@@ -1,2 +1,2 @@
 # first-demo
-Demo for learning to github
+Demo for learning to github.
